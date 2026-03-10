@@ -12,7 +12,8 @@ In this experiment, the task is to build a Convolutional Deep Neural Network (CN
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+<img width="1027" height="441" alt="image" src="https://github.com/user-attachments/assets/ba484496-51cc-48cb-bb12-6359709efe49" />
+
 
 ## DESIGN STEPS
 
