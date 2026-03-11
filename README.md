@@ -121,12 +121,11 @@ def train_model(model, train_loader, num_epochs=3):
 
 ### Classification Report
 
-<img width="499" height="611" alt="image" src="https://github.com/user-attachments/assets/3d7b8f7e-bffb-4024-9b71-cddfbeacb599" />
-
+<img width="550" height="420" alt="image" src="https://github.com/user-attachments/assets/0030f107-b1fd-4472-9032-f03ab64ea83e" />
 
 ### New Sample Data Prediction
 
-<img width="550" height="420" alt="image" src="https://github.com/user-attachments/assets/0030f107-b1fd-4472-9032-f03ab64ea83e" />
+<img width="499" height="611" alt="image" src="https://github.com/user-attachments/assets/3d7b8f7e-bffb-4024-9b71-cddfbeacb599" />
 
 
 ## RESULT
